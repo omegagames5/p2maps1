@@ -1,0 +1,2 @@
+mp_coop_sector_a.bsp
+mp_coop_down.bsp
