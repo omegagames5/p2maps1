@@ -1,2 +1,2 @@
-https://github.com/omegagames5/p2maps1_mod_anyget_vmget/raw/main/maps/1/mp_coop_down.bsp
-https://github.com/omegagames5/p2maps1_mod_anyget_vmget/raw/main/maps/1/mp_coop_sector_a.bsp
+https://github.com/omegagames5/p2maps1/raw/main/maps/1/mp_coop_down.bsp
+https://github.com/omegagames5/p2maps1/raw/main/maps/1/mp_coop_sector_a.bsp
